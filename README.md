@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**Xiao-Nine/Xiao-Nine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+嘿嘿嘿
 
-Here are some ideas to get you started:
+## Profile stats
+<img src="https://github-readme-stats.vercel.app/api?username=Xiao-Nine&show_icons=true&title_color=2bbc8a&text_color=c9cacc&icon_color=d480aa&bg_color=1d1f21"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I Use
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xiao-Nine&layout=compact"/>
+
+---
+#### Visitors (Since 2021/08/02)
+![:name](https://count.getloli.com/get/@Xiao-Nine?theme=rule34)
